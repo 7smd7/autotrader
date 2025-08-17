@@ -21,3 +21,14 @@ Autotrader is a JavaScript-based web application that automates trading by proce
   
   
   ![trades page](https://i.ibb.co/S5HWxYk/Picture1.png)
+
+
+## References
+
+### SPA Bot: Smart Price-Action Trading Bot for Cryptocurrency Market
+
+- [SPA Bot: Smart Price-Action Trading Bot for Cryptocurrency Market (IEEE Xplore)](https://ieeexplore.ieee.org/document/9685662)
+- If you need access to the full PDF, please contact the repository owner.
+
+**Brief Description:**  
+SPA Bot introduces an intelligent trading bot designed for the cryptocurrency market using price-action strategies. The paper details the bot’s architecture, decision-making processes, and performance results.
